@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BTL.Models.Sach>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Sách</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchSach">
+            <label>Tìm kiếm</label>
+            <input name="txtSearch" placeholder="Nhập từ khóa" />
+            <input type="submit" value="Tìm" />
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSach)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenTheLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TacGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuong)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenTheLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SachID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.SachID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.SachID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

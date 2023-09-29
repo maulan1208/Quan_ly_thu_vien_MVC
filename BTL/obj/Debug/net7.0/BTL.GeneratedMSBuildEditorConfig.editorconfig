@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BTL
+build_property.RootNamespace = BTL
+build_property.ProjectDir = C:\Users\Laptop24h\OneDrive\OneDrive\ĐH Đại Nam\Năm 2\ki 2\thực tập 4\BTL\BTL\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Laptop24h\OneDrive\OneDrive\ĐH Đại Nam\Năm 2\ki 2\thực tập 4\BTL\BTL
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/ChiTiet_PM/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldF9QTVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/ChiTiet_PM/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldF9QTVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/ChiTiet_PM/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldF9QTVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/ChiTiet_PM/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldF9QTVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/ChiTiet_PM/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldF9QTVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/DocGia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/DocGia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/DocGia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/DocGia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/DocGia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jR2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/PhieuMuon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/PhieuMuon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/PhieuMuon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/PhieuMuon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/PhieuMuon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVNdW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Sach/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Sach/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Sach/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Sach/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Sach/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TacGia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjR2lhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TacGia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjR2lhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TacGia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjR2lhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TacGia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjR2lhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TacGia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjR2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TheLoai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TheLoai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TheLoai/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TheLoai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/TheLoai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Laptop24h/OneDrive/OneDrive/ĐH Đại Nam/Năm 2/ki 2/thực tập 4/BTL/BTL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r300d95vn0

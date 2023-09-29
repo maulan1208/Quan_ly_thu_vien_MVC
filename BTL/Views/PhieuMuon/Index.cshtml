@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BTL.Models.PhieuMuon>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Phiếu mượn</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchPM">
+            <label>Tìm kiếm</label>
+            <input name="txtSearch" placeholder="Nhập từ khóa" />
+            <input type="submit" value="Tìm" />
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PhieuMuonID)
+            </th>
+            <th id="DgID">
+                @Html.DisplayNameFor(model => model.DocGiaID)
+            </th>
+            <th id="Dgname">
+                @Html.DisplayNameFor(model => model.TenDocGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayMuon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayTra)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhieuMuonID)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DocGiaID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDocGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayMuon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayTra)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PhieuMuonID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PhieuMuonID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PhieuMuonID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
